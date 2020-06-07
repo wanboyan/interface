@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>logo.jpg</file>
+    <file>light_green.jpg</file>
+    <file>light_white.jpg</file>
+  </qresource>
+</RCC>
